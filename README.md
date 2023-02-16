@@ -1,9 +1,9 @@
 # api-rest-inventory
 
-##Productos
+## Productos
 Administración de Productos, altas y administración
 
-##Clientes
+## Clientes
 Administración de Clientes, altas y administración
 
 api rest full with authentication
